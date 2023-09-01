@@ -9,4 +9,6 @@ def cuadrado(n):
     return n + n
 
 if __name__ == '__main__':
-    main()  
+    main() 
+
+print     
